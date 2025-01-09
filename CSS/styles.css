@@ -16,7 +16,7 @@ body {
 /* Skip Link */
 .skip-link {
     position: absolute;
-    top: -40px;
+    top: -25px;
     left: 10px;
     background: #007acc;
     color: #fff;
